@@ -11,6 +11,7 @@
 
 [Overview](#-overview) · [Features](#-features) · [Tech Stack](#-tech-stack) · [Project Structure](#-project-structure) · [Running Locally](#-running-locally) · [Adding a Game](#-adding-a-game) · [Deployment](#-deployment)
 
+**🔗 Live Site:** [gamehub-by-ria.vercel.app](https://gamehub-by-ria.vercel.app/)
 </div>
 
 ---
@@ -240,6 +241,16 @@ git push
 ```
 
 Vercel redeploys automatically in ~60 seconds. ✅
+
+---
+
+## 🎬 Demo
+
+<p align="center">
+  <a href="https://youtu.be/ftJkrfolUF8?si=rqWmqWwBOwEH1nbw">
+    <img src="https://img.youtube.com/vi/ftJkrfolUF8/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
 ---
 
